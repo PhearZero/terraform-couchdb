@@ -22,3 +22,16 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+#Appended ignores
+.vagrant/machines
+.idea
+node_modules
+
+build
+terraform.tfstate.backup
+terraform.tfstate
+terraform-provider-couchdb
+
+
+config.json

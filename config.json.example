@@ -1,0 +1,6 @@
+{
+  bintray: {
+    user: "username",
+    apikey: "password"
+  }
+}
